@@ -23,4 +23,4 @@ def primos_hasta(limite_superior: int) -> list[int]:
 # Ejemplo de uso
 numero = 234
 print(f"¿{numero} es primo?: {es_primo(numero)}")
-print(f"Primos hasta 30: {primos_hasta(numero)}")
+print(f"Primos hasta 30: {primos_hasta(30)}")
